@@ -1,1 +1,1 @@
-Script to automate collection of data in threat data.
+Script to automate collection of threat data.
